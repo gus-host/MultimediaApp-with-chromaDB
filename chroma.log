@@ -1334,3 +1334,12 @@ chromadb.db.base.UniqueConstraintError: Collection my_collection already exists
 [32mINFO[0m:     [29-10-2024 01:25:58] ::1:59892 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
 [32mINFO[0m:     [29-10-2024 01:25:58] ::1:59892 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
 [32mINFO[0m:     [29-10-2024 01:25:58] ::1:59893 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 08:32:51] ::1:65144 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 08:32:51] ::1:65144 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 08:32:51] ::1:65144 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 08:32:51] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 08:32:51] ::1:65144 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 08:33:37] ::1:65239 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 08:33:37] ::1:65239 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 08:33:37] ::1:65239 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 08:33:37] ::1:65240 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
