@@ -1,0 +1,1320 @@
+[33mWARNING[0m:  [26-10-2024 17:33:07] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [26-10-2024 17:33:08] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [26-10-2024 17:33:08] Starting component System
+[36mDEBUG[0m:    [26-10-2024 17:33:08] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [26-10-2024 17:33:08] Starting component SqliteDB
+[36mDEBUG[0m:    [26-10-2024 17:33:08] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [26-10-2024 17:33:08] Starting component Posthog
+[36mDEBUG[0m:    [26-10-2024 17:33:08] Starting component SimpleRateLimitEnforcer
+[36mDEBUG[0m:    [26-10-2024 17:33:08] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [26-10-2024 17:33:08] Starting component SegmentAPI
+[32mINFO[0m:     [26-10-2024 17:33:08] Started server process [[36m18848[0m]
+[32mINFO[0m:     [26-10-2024 17:33:08] Waiting for application startup.
+[32mINFO[0m:     [26-10-2024 17:33:08] Application startup complete.
+[32mINFO[0m:     [26-10-2024 17:33:08] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[33mWARNING[0m:  [28-10-2024 19:27:08] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [28-10-2024 19:27:09] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [28-10-2024 19:27:09] Starting component System
+[36mDEBUG[0m:    [28-10-2024 19:27:09] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [28-10-2024 19:27:09] Starting component SqliteDB
+[36mDEBUG[0m:    [28-10-2024 19:27:09] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [28-10-2024 19:27:09] Starting component Posthog
+[36mDEBUG[0m:    [28-10-2024 19:27:09] Starting component SimpleRateLimitEnforcer
+[36mDEBUG[0m:    [28-10-2024 19:27:09] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [28-10-2024 19:27:09] Starting component SegmentAPI
+[32mINFO[0m:     [28-10-2024 19:27:09] Started server process [[36m24284[0m]
+[32mINFO[0m:     [28-10-2024 19:27:09] Waiting for application startup.
+[32mINFO[0m:     [28-10-2024 19:27:09] Application startup complete.
+[32mINFO[0m:     [28-10-2024 19:27:09] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [28-10-2024 19:27:20] ::1:53197 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:28:07] ::1:53247 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:28:09] ::1:53252 - "GET /favicon.ico HTTP/1.1" 404
+[32mINFO[0m:     [28-10-2024 19:37:31] ::1:54075 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:41:15] Shutting down
+[32mINFO[0m:     [28-10-2024 19:41:15] Waiting for application shutdown.
+[36mDEBUG[0m:    [28-10-2024 19:41:15] Stopping component System
+[36mDEBUG[0m:    [28-10-2024 19:41:15] Stopping component SegmentAPI
+[36mDEBUG[0m:    [28-10-2024 19:41:15] Stopping component LocalSegmentManager
+[36mDEBUG[0m:    [28-10-2024 19:41:15] Stopping component SimpleRateLimitEnforcer
+[36mDEBUG[0m:    [28-10-2024 19:41:15] Stopping component Posthog
+[36mDEBUG[0m:    [28-10-2024 19:41:15] Stopping component QuotaEnforcer
+[36mDEBUG[0m:    [28-10-2024 19:41:15] Stopping component SqliteDB
+[36mDEBUG[0m:    [28-10-2024 19:41:15] Stopping component OpenTelemetryClient
+[32mINFO[0m:     [28-10-2024 19:41:15] Application shutdown complete.
+[32mINFO[0m:     [28-10-2024 19:41:15] Finished server process [[36m24284[0m]
+[33mWARNING[0m:  [28-10-2024 19:44:07] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [28-10-2024 19:44:08] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [28-10-2024 19:44:08] Starting component System
+[36mDEBUG[0m:    [28-10-2024 19:44:08] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [28-10-2024 19:44:08] Starting component SqliteDB
+[36mDEBUG[0m:    [28-10-2024 19:44:08] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [28-10-2024 19:44:08] Starting component Posthog
+[36mDEBUG[0m:    [28-10-2024 19:44:08] Starting component SimpleRateLimitEnforcer
+[36mDEBUG[0m:    [28-10-2024 19:44:08] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [28-10-2024 19:44:08] Starting component SegmentAPI
+[32mINFO[0m:     [28-10-2024 19:44:08] Started server process [[36m15124[0m]
+[32mINFO[0m:     [28-10-2024 19:44:08] Waiting for application startup.
+[32mINFO[0m:     [28-10-2024 19:44:08] Application startup complete.
+[32mINFO[0m:     [28-10-2024 19:44:08] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [28-10-2024 19:44:24] ::1:54798 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:44:24] ::1:54798 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:44:24] ::1:54798 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:44:24] ::1:54798 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:44:24] ::1:54798 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:44:24] ::1:54801 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:44:25] Backing off send_request(...) for 0.1s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 19:48:18] ::1:55102 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:48:18] ::1:55102 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[31mERROR[0m:    [28-10-2024 19:48:18] Collection my_collection already exists
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\streams\memory.py", line 111, in receive
+    return self.receive_nowait()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\streams\memory.py", line 106, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\streams\memory.py", line 124, in receive
+    return receiver.item
+AttributeError: 'MemoryObjectItemReceiver' object has no attribute 'item'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\base.py", line 157, in call_next
+    message = await recv_stream.receive()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\streams\memory.py", line 126, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\chromadb\server\fastapi\__init__.py", line 105, in catch_exceptions_middleware
+    return await call_next(request)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\base.py", line 163, in call_next
+    raise app_exc
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\base.py", line 149, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\base.py", line 185, in __call__
+    with collapse_excgroups():
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    raise exc
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\base.py", line 187, in __call__
+    response = await self.dispatch_func(request, call_next)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\chromadb\server\fastapi\__init__.py", line 119, in check_http_version_middleware
+    return await call_next(request)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\base.py", line 163, in call_next
+    raise app_exc
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\base.py", line 149, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 62, in wrapped_app
+    raise exc
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 51, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 62, in wrapped_app
+    raise exc
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 51, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\chromadb\telemetry\opentelemetry\__init__.py", line 133, in async_wrapper
+    return await f(*args, **kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\chromadb\server\fastapi\__init__.py", line 659, in create_collection
+    await to_thread.run_sync(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\_backends\_asyncio.py", line 2405, in run_sync_in_worker_thread
+    return await future
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\_backends\_asyncio.py", line 914, in run
+    result = context.run(func, *args)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\chromadb\server\fastapi\__init__.py", line 648, in process_create_collection
+    return self._api.create_collection(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\chromadb\telemetry\opentelemetry\__init__.py", line 146, in wrapper
+    return f(*args, **kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\chromadb\api\segment.py", line 201, in create_collection
+    coll, created = self._sysdb.create_collection(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\chromadb\telemetry\opentelemetry\__init__.py", line 146, in wrapper
+    return f(*args, **kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\chromadb\db\mixins\sysdb.py", line 227, in create_collection
+    raise UniqueConstraintError(f"Collection {name} already exists")
+chromadb.db.base.UniqueConstraintError: Collection my_collection already exists
+[32mINFO[0m:     [28-10-2024 19:48:19] ::1:55102 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 500
+[32mINFO[0m:     [28-10-2024 19:48:21] ::1:55117 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:48:21] ::1:55117 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:48:22] ::1:55117 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[31mERROR[0m:    [28-10-2024 19:48:22] Collection my_collection already exists
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\streams\memory.py", line 111, in receive
+    return self.receive_nowait()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\streams\memory.py", line 106, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\streams\memory.py", line 124, in receive
+    return receiver.item
+AttributeError: 'MemoryObjectItemReceiver' object has no attribute 'item'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\base.py", line 157, in call_next
+    message = await recv_stream.receive()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\streams\memory.py", line 126, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\chromadb\server\fastapi\__init__.py", line 105, in catch_exceptions_middleware
+    return await call_next(request)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\base.py", line 163, in call_next
+    raise app_exc
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\base.py", line 149, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\base.py", line 185, in __call__
+    with collapse_excgroups():
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    raise exc
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\base.py", line 187, in __call__
+    response = await self.dispatch_func(request, call_next)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\chromadb\server\fastapi\__init__.py", line 119, in check_http_version_middleware
+    return await call_next(request)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\base.py", line 163, in call_next
+    raise app_exc
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\base.py", line 149, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 62, in wrapped_app
+    raise exc
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 51, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 62, in wrapped_app
+    raise exc
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\_exception_handler.py", line 51, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\fastapi\routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\chromadb\telemetry\opentelemetry\__init__.py", line 133, in async_wrapper
+    return await f(*args, **kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\chromadb\server\fastapi\__init__.py", line 659, in create_collection
+    await to_thread.run_sync(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\_backends\_asyncio.py", line 2405, in run_sync_in_worker_thread
+    return await future
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\anyio\_backends\_asyncio.py", line 914, in run
+    result = context.run(func, *args)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\chromadb\server\fastapi\__init__.py", line 648, in process_create_collection
+    return self._api.create_collection(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\chromadb\telemetry\opentelemetry\__init__.py", line 146, in wrapper
+    return f(*args, **kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\chromadb\api\segment.py", line 201, in create_collection
+    coll, created = self._sysdb.create_collection(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\chromadb\telemetry\opentelemetry\__init__.py", line 146, in wrapper
+    return f(*args, **kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\chromadb\db\mixins\sysdb.py", line 227, in create_collection
+    raise UniqueConstraintError(f"Collection {name} already exists")
+chromadb.db.base.UniqueConstraintError: Collection my_collection already exists
+[32mINFO[0m:     [28-10-2024 19:48:22] ::1:55117 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 500
+[32mINFO[0m:     [28-10-2024 19:50:22] ::1:55296 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:50:22] ::1:55296 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 19:50:22] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 19:50:22] ::1:55296 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:50:22] ::1:55307 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:50:22] ::1:55307 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 19:50:22] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 19:50:22] ::1:55307 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:50:22] ::1:55307 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:50:22] ::1:55296 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:50:22] ::1:55296 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:51:01] ::1:55379 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:51:01] ::1:55379 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 19:51:01] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 19:51:01] ::1:55379 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:51:01] ::1:55379 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:51:01] ::1:55383 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:51:02] ::1:55383 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 19:51:02] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 19:51:02] ::1:55383 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 19:51:02] ::1:55383 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:33:18] ::1:54008 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:33:18] ::1:54008 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:33:18] ::1:54008 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 20:33:18] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 20:33:18] ::1:54008 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:33:18] ::1:54008 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:33:18] ::1:54011 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:33:20] ::1:54025 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:33:20] ::1:54025 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:33:20] ::1:54025 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 20:33:20] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 20:33:20] ::1:54025 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:33:20] ::1:54025 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:33:20] ::1:54026 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:33:26] Backing off send_request(...) for 0.8s (requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)))
+[32mINFO[0m:     [28-10-2024 20:33:39] Backing off send_request(...) for 1.4s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000192D4380370>: Failed to resolve 'us.i.posthog.com' ([Errno 11001] getaddrinfo failed)")))
+[32mINFO[0m:     [28-10-2024 20:39:08] ::1:49469 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:39:08] ::1:49469 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 20:39:08] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 20:39:08] ::1:49469 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:39:08] ::1:49469 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:39:09] ::1:49475 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:39:10] ::1:49475 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 20:39:10] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 20:39:10] ::1:49475 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:39:10] ::1:49475 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:40:41] ::1:49624 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:40:41] ::1:49624 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 20:40:42] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 20:40:42] ::1:49624 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:40:42] ::1:49624 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:40:44] ::1:49639 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:40:44] ::1:49639 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 20:40:44] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 20:40:44] ::1:49639 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:40:46] ::1:49643 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:44:14] ::1:50142 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:44:15] ::1:50142 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:44:15] ::1:50142 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 20:44:15] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 20:44:15] ::1:50142 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:44:15] ::1:50142 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:44:15] ::1:50143 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:44:17] ::1:50152 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:44:17] ::1:50152 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:44:18] ::1:50152 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 20:44:18] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 20:44:18] ::1:50152 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:44:18] ::1:50152 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:44:18] ::1:50158 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:44:35] ::1:50302 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:44:35] ::1:50302 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 20:44:35] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 20:44:35] ::1:50302 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:44:35] ::1:50302 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:44:38] ::1:50308 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:44:38] ::1:50308 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 20:44:38] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 20:44:38] ::1:50308 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:44:38] ::1:50308 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:48:31] ::1:50587 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:48:31] ::1:50589 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 20:48:32] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 20:48:32] ::1:50589 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:48:32] ::1:50589 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:48:33] ::1:50595 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:48:33] ::1:50595 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 20:48:33] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 20:48:33] ::1:50595 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 20:48:33] ::1:50595 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:02:10] ::1:51510 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:02:10] ::1:51510 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:02:10] ::1:51510 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:02:11] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:02:11] ::1:51510 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:02:11] ::1:51510 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:02:11] ::1:51513 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:02:12] ::1:51522 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:02:12] ::1:51522 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:02:13] ::1:51522 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:02:13] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:02:13] ::1:51522 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:02:13] ::1:51522 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:02:13] ::1:51526 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:04:26] ::1:51699 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:04:26] ::1:51699 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:04:26] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:04:26] ::1:51699 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:04:26] ::1:51699 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:04:28] ::1:51711 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:04:29] ::1:51711 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:04:30] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:04:30] ::1:51711 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:04:30] ::1:51711 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:06:13] ::1:51847 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:06:13] ::1:51847 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:06:13] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:06:13] ::1:51847 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:06:13] ::1:51847 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:06:15] ::1:51861 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:06:16] ::1:51861 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:06:17] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:06:17] ::1:51861 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:06:17] ::1:51861 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:06:29] Backing off send_request(...) for 0.9s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 21:08:58] ::1:52105 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:08:58] ::1:52105 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:08:58] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:08:58] ::1:52105 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:08:58] ::1:52105 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:09:01] ::1:52119 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:09:01] ::1:52119 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:09:05] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:09:05] ::1:52119 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:09:05] ::1:52119 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:09:15] ::1:52151 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:09:15] ::1:52151 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:09:15] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:09:15] ::1:52151 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:09:15] ::1:52151 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:09:23] ::1:52167 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:09:24] ::1:52167 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:09:25] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:09:25] ::1:52167 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:09:25] ::1:52167 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:09:35] ::1:52191 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:09:35] ::1:52191 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:09:36] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:09:36] ::1:52191 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:09:36] ::1:52191 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:14:20] ::1:52503 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:14:20] ::1:52503 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:14:20] ::1:52503 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:14:20] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:14:20] ::1:52503 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:14:20] ::1:52503 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:14:20] ::1:52504 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:14:20] ::1:52510 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:14:21] ::1:52513 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:14:22] ::1:52513 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:14:22] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:14:22] ::1:52513 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:14:22] ::1:52513 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:14:22] ::1:52523 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:15:14] ::1:52604 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:15:14] ::1:52604 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:15:15] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:15:15] ::1:52604 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:15:15] ::1:52604 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:15:29] ::1:52627 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:15:29] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [28-10-2024 21:15:30] ::1:52627 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:17:10] ::1:52749 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:17:10] ::1:52749 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:17:10] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:17:10] ::1:52749 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:17:12] ::1:52764 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:17:12] ::1:52764 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:17:12] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:17:12] ::1:52764 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:17:26] Backing off send_request(...) for 0.1s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 21:17:47] ::1:52830 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:17:47] ::1:52830 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:17:47] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:17:47] ::1:52830 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:18:10] ::1:52830 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:18:48] ::1:52909 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:18:49] ::1:52916 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:18:49] ::1:52916 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:18:49] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:18:49] ::1:52916 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:18:49] ::1:52909 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:18:50] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:18:50] ::1:52909 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:19:00] ::1:52941 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:19:00] ::1:52941 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:20:44] ::1:53078 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:20:44] ::1:53078 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:20:44] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:20:44] ::1:53078 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:20:46] ::1:53086 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:20:47] ::1:53086 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:20:47] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:20:47] ::1:53086 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:20:58] ::1:53106 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:20:58] ::1:53106 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:24:37] ::1:53362 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:24:37] ::1:53362 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:24:38] ::1:53362 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:24:38] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:24:38] ::1:53362 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:24:40] ::1:53374 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:24:41] ::1:53374 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:24:41] ::1:53374 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:24:41] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:24:41] ::1:53374 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:24:53] Backing off send_request(...) for 0.0s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 21:24:55] ::1:53404 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:24:55] ::1:53404 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:24:55] ::1:53404 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:30:30] ::1:53800 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:30:30] ::1:53800 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:30:30] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:30:31] ::1:53800 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:30:31] ::1:53811 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:30:31] ::1:53811 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 21:30:31] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 21:30:31] ::1:53811 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:30:46] ::1:53837 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:30:46] ::1:53837 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:30:46] ::1:53837 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 21:30:47] Backing off send_request(...) for 0.9s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 21:31:16] Backing off send_request(...) for 0.3s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 22:11:53] ::1:56563 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:11:53] ::1:56563 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:11:53] ::1:56563 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 22:11:53] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 22:11:53] ::1:56563 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:12:07] ::1:56590 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:12:07] ::1:56590 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:12:07] ::1:56590 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:12:07] ::1:56591 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:17:49] ::1:57014 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:17:49] ::1:57014 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 22:17:49] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 22:17:49] ::1:57014 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:18:04] ::1:57038 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:18:04] ::1:57038 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:19:01] ::1:57109 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:19:01] ::1:57109 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 22:19:01] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 22:19:01] ::1:57109 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:19:12] ::1:57127 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:19:12] ::1:57127 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/get HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:19:17] Backing off send_request(...) for 0.2s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 22:19:33] Backing off send_request(...) for 0.2s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 22:31:09] ::1:58076 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:31:09] ::1:58076 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:31:09] ::1:58076 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 22:31:09] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 22:31:09] ::1:58076 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:31:25] Backing off send_request(...) for 1.0s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 22:31:31] ::1:58076 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:31:31] ::1:58077 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:31:53] ::1:58077 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:31:54] ::1:58077 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 22:31:54] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 22:31:54] ::1:58077 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:32:11] ::1:58077 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:32:11] ::1:58077 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:32:11] ::1:58077 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:33:49] ::1:58381 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:33:49] ::1:58381 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 22:33:49] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 22:33:49] ::1:58381 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:34:05] Backing off send_request(...) for 0.0s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 22:34:14] ::1:58418 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:34:14] ::1:58418 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:46:20] ::1:59493 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:46:20] ::1:59493 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:46:20] ::1:59493 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 22:46:21] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 22:46:21] ::1:59493 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:46:41] ::1:59518 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:46:41] ::1:59518 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:46:41] ::1:59518 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:46:41] ::1:59519 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:47:51] ::1:59604 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:47:52] ::1:59604 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 22:47:52] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 22:47:52] ::1:59604 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:48:07] ::1:59625 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:48:07] ::1:59625 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:50:58] ::1:59825 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:50:58] ::1:59825 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 22:50:59] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 22:50:59] ::1:59825 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:51:26] ::1:59856 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:51:26] ::1:59856 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:52:49] ::1:59979 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:52:49] ::1:59979 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 22:52:49] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 22:52:49] ::1:59979 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:53:08] ::1:60000 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:53:08] ::1:60000 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:53:39] ::1:60042 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:53:40] ::1:60042 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:53:40] ::1:60042 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 22:53:40] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 22:53:40] ::1:60042 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:55:36] ::1:60196 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:55:36] ::1:60196 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 22:55:36] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 22:55:36] ::1:60196 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:55:54] ::1:60196 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:55:54] ::1:60196 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:59:32] ::1:60470 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:59:32] ::1:60470 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:59:33] ::1:60470 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 22:59:33] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 22:59:33] ::1:60470 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:59:50] Backing off send_request(...) for 0.5s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 22:59:51] ::1:60490 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:59:51] ::1:60490 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:59:51] ::1:60490 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 22:59:51] ::1:60491 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:00:01] ::1:60516 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:00:01] ::1:60516 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:00:01] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:00:01] ::1:60516 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:00:19] ::1:60538 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:00:19] ::1:60538 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:02:11] ::1:60673 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:02:11] ::1:60673 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:02:11] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:02:11] ::1:60673 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:02:30] ::1:60704 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:02:30] ::1:60704 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:02:30] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:02:30] ::1:60704 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:02:44] ::1:60716 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:02:44] ::1:60716 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:03:52] ::1:60802 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:03:52] ::1:60802 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:03:53] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:03:53] ::1:60802 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:04:08] Backing off send_request(...) for 0.4s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:04:09] ::1:60826 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:04:09] ::1:60826 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:04:09] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:04:09] ::1:60826 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:04:30] ::1:60858 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:04:30] ::1:60858 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:05:12] ::1:60920 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:05:12] ::1:60920 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:05:13] ::1:60920 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:05:13] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:05:13] ::1:60920 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:05:17] ::1:60932 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:05:21] ::1:60932 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:05:21] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:05:21] ::1:60932 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:05:48] ::1:60988 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:05:49] ::1:60988 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:12:02] ::1:62431 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:12:02] ::1:62431 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:12:02] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:12:02] ::1:62431 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:12:45] Backing off send_request(...) for 0.6s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:17:26] ::1:62934 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:17:26] ::1:62934 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:17:26] ::1:62934 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:17:26] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:17:26] ::1:62934 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:17:42] Backing off send_request(...) for 0.8s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:18:34] Backing off send_request(...) for 0.3s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:18:42] ::1:63068 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:18:42] ::1:63068 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:18:43] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:18:43] ::1:63068 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:19:01] ::1:63068 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:19:01] ::1:63068 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:19:01] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:19:01] ::1:63068 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:19:18] Backing off send_request(...) for 0.7s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[31mERROR[0m:    [28-10-2024 23:19:38] Giving up send_request(...) after 4 tries (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:20:29] ::1:63258 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:20:29] ::1:63258 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:20:30] ::1:63258 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:20:30] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:20:30] ::1:63258 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:20:32] ::1:63271 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:20:33] ::1:63271 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:20:33] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:20:34] ::1:63271 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:20:45] Backing off send_request(...) for 0.1s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:20:54] ::1:63325 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:20:54] ::1:63325 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:20:54] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:20:54] ::1:63325 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:21:06] Backing off send_request(...) for 1.9s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:21:48] ::1:63430 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:21:48] ::1:63430 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:21:48] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:21:48] ::1:63430 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:21:50] Backing off send_request(...) for 0.7s (requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+[32mINFO[0m:     [28-10-2024 23:22:23] Backing off send_request(...) for 0.0s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:22:52] Backing off send_request(...) for 0.3s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[31mERROR[0m:    [28-10-2024 23:23:10] Giving up send_request(...) after 4 tries (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:23:40] ::1:63592 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:23:40] ::1:63592 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:23:40] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:23:40] ::1:63592 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:23:52] Backing off send_request(...) for 1.0s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000192D4D36EF0>: Failed to resolve 'us.i.posthog.com' ([Errno 11001] getaddrinfo failed)")))
+[32mINFO[0m:     [28-10-2024 23:24:05] Backing off send_request(...) for 0.1s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000192D4D350C0>: Failed to resolve 'us.i.posthog.com' ([Errno 11001] getaddrinfo failed)")))
+[32mINFO[0m:     [28-10-2024 23:24:28] Backing off send_request(...) for 0.4s (requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+[31mERROR[0m:    [28-10-2024 23:24:44] Giving up send_request(...) after 4 tries (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:26:01] ::1:63772 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:26:01] ::1:63772 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:26:01] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:26:01] ::1:63772 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:26:14] Backing off send_request(...) for 0.5s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000192D42FF0A0>: Failed to resolve 'us.i.posthog.com' ([Errno 11001] getaddrinfo failed)")))
+[32mINFO[0m:     [28-10-2024 23:26:37] Backing off send_request(...) for 2.0s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:28:30] ::1:63896 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:28:31] ::1:63896 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:28:31] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:28:31] ::1:63896 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:28:32] Backing off send_request(...) for 0.1s (requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+[32mINFO[0m:     [28-10-2024 23:28:48] Backing off send_request(...) for 0.3s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:29:01] Backing off send_request(...) for 0.8s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000192D4377BE0>: Failed to resolve 'us.i.posthog.com' ([Errno 11001] getaddrinfo failed)")))
+[32mINFO[0m:     [28-10-2024 23:29:26] ::1:63973 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:29:26] ::1:63973 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:29:26] ::1:63973 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:29:27] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:29:27] ::1:63973 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:29:31] ::1:63987 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:29:31] ::1:63987 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:29:32] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:29:32] ::1:63987 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[31mERROR[0m:    [28-10-2024 23:29:43] Giving up send_request(...) after 4 tries (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:30:02] Backing off send_request(...) for 0.6s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:30:18] ::1:63975 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:30:18] ::1:63975 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:30:18] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:30:18] ::1:63975 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:30:21] Backing off send_request(...) for 0.2s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:30:22] ::1:64069 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:30:22] ::1:64069 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:30:22] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:30:22] ::1:64069 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:31:08] Backing off send_request(...) for 0.3s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:31:46] Backing off send_request(...) for 0.8s (requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+[32mINFO[0m:     [28-10-2024 23:31:53] ::1:64222 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:31:53] ::1:64222 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:31:53] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:31:53] ::1:64222 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:32:06] Backing off send_request(...) for 0.6s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:32:24] ::1:64252 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:32:24] ::1:64252 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:32:24] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:32:24] ::1:64252 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:34:05] ::1:64409 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:34:05] ::1:64409 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:34:07] ::1:64409 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:34:07] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:34:07] ::1:64409 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:34:15] ::1:64436 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:34:15] ::1:64436 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:34:15] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:34:15] ::1:64436 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:34:22] Backing off send_request(...) for 1.0s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:34:35] Backing off send_request(...) for 1.7s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000192D4D37B80>: Failed to resolve 'us.i.posthog.com' ([Errno 11001] getaddrinfo failed)")))
+[32mINFO[0m:     [28-10-2024 23:34:41] ::1:64485 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:34:41] ::1:64485 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:34:41] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:34:41] ::1:64485 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:34:46] ::1:64503 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:34:46] ::1:64503 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:34:46] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:34:47] ::1:64503 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:34:56] ::1:64516 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:34:56] ::1:64516 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:34:56] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:34:56] ::1:64516 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:34:57] Backing off send_request(...) for 2.3s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:35:06] ::1:64516 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:35:06] ::1:64516 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:35:06] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:35:06] ::1:64516 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[31mERROR[0m:    [28-10-2024 23:35:29] Giving up send_request(...) after 4 tries (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:35:42] Backing off send_request(...) for 0.6s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000192D4D59960>: Failed to resolve 'us.i.posthog.com' ([Errno 11001] getaddrinfo failed)")))
+[32mINFO[0m:     [28-10-2024 23:36:01] Backing off send_request(...) for 1.4s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:36:22] Backing off send_request(...) for 2.5s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[31mERROR[0m:    [28-10-2024 23:36:40] Giving up send_request(...) after 4 tries (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:36:51] ::1:64748 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:36:51] ::1:64748 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:36:51] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:36:52] ::1:64748 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:38:39] ::1:64901 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:38:39] ::1:64901 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:38:39] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:38:39] ::1:64901 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:38:54] Backing off send_request(...) for 0.5s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:39:20] ::1:64947 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:39:20] ::1:64947 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:39:20] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:39:20] ::1:64947 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:40:04] ::1:65024 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:40:05] ::1:65024 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:40:05] ::1:65024 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:40:05] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:40:05] ::1:65024 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:40:13] Backing off send_request(...) for 0.7s (requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+[32mINFO[0m:     [28-10-2024 23:40:37] Backing off send_request(...) for 0.0s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:40:40] ::1:65077 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:40:40] ::1:65077 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:40:41] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:40:41] ::1:65077 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:40:49] Backing off send_request(...) for 0.3s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000192D4381D80>: Failed to resolve 'us.i.posthog.com' ([Errno 11001] getaddrinfo failed)")))
+[32mINFO[0m:     [28-10-2024 23:40:53] ::1:65103 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:40:53] ::1:65103 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:40:53] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:40:53] ::1:65103 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:41:27] ::1:65169 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:41:28] ::1:65169 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:41:28] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:41:28] ::1:65169 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:41:48] ::1:65188 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:41:48] ::1:65188 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:41:48] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:41:48] ::1:65188 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:43:44] ::1:65297 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:43:44] ::1:65297 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:43:44] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:43:44] ::1:65297 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:43:53] Backing off send_request(...) for 0.7s (requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+[32mINFO[0m:     [28-10-2024 23:46:40] ::1:65449 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:46:40] ::1:65449 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:46:40] ::1:65449 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:46:41] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:46:41] ::1:65449 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:46:43] Backing off send_request(...) for 1.0s (requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+[32mINFO[0m:     [28-10-2024 23:47:19] Backing off send_request(...) for 0.7s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+[32mINFO[0m:     [28-10-2024 23:47:31] Backing off send_request(...) for 1.3s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000192D4D1DA20>: Failed to resolve 'us.i.posthog.com' ([Errno 11001] getaddrinfo failed)")))
+[32mINFO[0m:     [28-10-2024 23:47:42] ::1:49166 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:47:42] ::1:49166 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:47:42] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:47:42] ::1:49166 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[31mERROR[0m:    [28-10-2024 23:47:45] Giving up send_request(...) after 4 tries (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000192D4D1C3D0>: Failed to resolve 'us.i.posthog.com' ([Errno 11001] getaddrinfo failed)")))
+[32mINFO[0m:     [28-10-2024 23:47:57] Backing off send_request(...) for 0.2s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000192D42FF640>: Failed to resolve 'us.i.posthog.com' ([Errno 11001] getaddrinfo failed)")))
+[32mINFO[0m:     [28-10-2024 23:48:10] Backing off send_request(...) for 0.4s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000192D4D581F0>: Failed to resolve 'us.i.posthog.com' ([Errno 11001] getaddrinfo failed)")))
+[32mINFO[0m:     [28-10-2024 23:48:22] Backing off send_request(...) for 1.0s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000192D4382410>: Failed to resolve 'us.i.posthog.com' ([Errno 11001] getaddrinfo failed)")))
+[32mINFO[0m:     [28-10-2024 23:48:33] ::1:52423 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:48:34] ::1:52423 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:48:34] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:48:34] ::1:52423 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:48:56] ::1:52460 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:48:56] ::1:52460 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:48:56] ::1:52460 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:48:56] ::1:52461 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:56:45] ::1:53002 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:56:45] ::1:53002 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:56:45] ::1:53002 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:56:45] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:56:45] ::1:53002 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:56:51] 127.0.0.1:53027 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:56:55] 127.0.0.1:53027 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:56:55] 127.0.0.1:53027 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:56:55] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:56:55] ::1:53024 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:57:13] ::1:53060 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:57:13] ::1:53060 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:57:35] ::1:53097 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:57:35] ::1:53097 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:57:35] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:57:35] ::1:53097 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:57:39] ::1:53111 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:57:42] ::1:53111 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [28-10-2024 23:57:42] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [28-10-2024 23:57:42] ::1:53111 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:58:02] ::1:53139 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [28-10-2024 23:58:02] ::1:53139 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:01:48] ::1:53392 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:01:48] ::1:53392 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:01:48] ::1:53392 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:01:48] ::1:53393 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:04:21] ::1:53566 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:04:22] ::1:53566 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:04:22] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:04:22] ::1:53566 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:04:29] ::1:53587 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:04:29] ::1:53587 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:04:32] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:04:32] ::1:53587 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:04:33] ::1:53598 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:04:33] ::1:53599 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:04:41] ::1:53599 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:04:41] ::1:53599 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:04:41] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:04:41] ::1:53599 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:04:52] ::1:53626 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:04:52] ::1:53626 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:04:53] ::1:53626 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:04:59] ::1:53631 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:04:59] ::1:53631 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:06:16] ::1:53702 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:06:16] ::1:53702 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:06:16] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:06:16] ::1:53702 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:06:23] ::1:53728 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:06:23] ::1:53728 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:06:26] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:06:26] ::1:53728 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:06:31] ::1:53702 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:06:31] ::1:53702 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:06:45] ::1:53702 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:06:45] ::1:53702 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:06:45] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:06:45] ::1:53702 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:06:54] ::1:53762 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:06:56] ::1:53768 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:06:56] ::1:53768 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:06:56] ::1:53768 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:06:56] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:06:56] ::1:53769 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:06:57] ::1:53762 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:07:01] ::1:53762 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:07:02] ::1:53762 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:07:02] ::1:53762 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:07:02] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:07:02] ::1:53762 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:07:06] ::1:53769 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:07:06] ::1:53769 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:07:28] ::1:53798 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:07:28] ::1:53798 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:09:26] ::1:53886 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:09:26] ::1:53886 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:09:26] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:09:26] ::1:53886 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:09:27] ::1:53895 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:09:30] ::1:53895 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:09:36] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:09:36] ::1:53909 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:09:41] ::1:53912 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:09:41] ::1:53912 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:10:01] ::1:53928 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:10:02] ::1:53928 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:10:41] ::1:53959 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:10:41] ::1:53959 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:10:41] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:10:41] ::1:53959 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:10:44] ::1:53968 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:10:44] ::1:53968 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:10:47] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:10:47] ::1:53968 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:11:12] ::1:53997 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:11:17] ::1:53997 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:11:17] ::1:53997 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:11:17] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:11:17] ::1:53997 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:11:17] ::1:54008 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:11:19] ::1:54008 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:11:20] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:11:20] ::1:54008 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:11:39] ::1:54036 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:11:39] ::1:54036 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:11:39] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:11:39] ::1:54036 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:11:55] ::1:54060 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:11:55] ::1:54060 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:11:55] ::1:54060 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:11:55] ::1:54061 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:12:25] ::1:54101 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:12:26] ::1:54101 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:12:26] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:12:26] ::1:54101 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:12:39] ::1:54127 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:12:39] ::1:54127 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:12:39] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:12:39] ::1:54127 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:12:58] ::1:54157 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:12:58] ::1:54157 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:12:58] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:12:58] ::1:54157 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:13:30] ::1:54187 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:13:30] ::1:54187 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:13:30] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:13:30] ::1:54187 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:13:34] ::1:54194 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:13:34] ::1:54194 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:13:34] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:13:34] ::1:54194 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:14:04] ::1:54226 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:14:04] ::1:54226 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:16:08] ::1:54323 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:16:09] ::1:54323 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:16:10] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:16:10] ::1:54323 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:16:11] ::1:54338 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:16:11] ::1:54338 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:16:11] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:16:11] ::1:54338 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:16:46] ::1:54369 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:16:46] ::1:54369 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:18:36] ::1:54450 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:18:36] ::1:54450 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:18:36] ::1:54450 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:18:36] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:18:36] ::1:54450 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:18:39] ::1:54460 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:18:40] ::1:54460 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:18:40] ::1:54460 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:18:40] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:18:40] ::1:54460 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:18:43] ::1:54450 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:18:43] ::1:54450 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:18:43] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:18:43] ::1:54450 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:19:10] ::1:54490 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:19:10] ::1:54490 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:20:51] ::1:54565 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:20:51] ::1:54565 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:20:52] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:20:52] ::1:54565 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:20:54] ::1:54573 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:20:55] ::1:54573 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:20:56] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:20:56] ::1:54573 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:21:28] ::1:54606 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:21:28] ::1:54606 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:24:00] ::1:54711 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:24:00] ::1:54711 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:24:00] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:24:00] ::1:54711 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:24:02] ::1:54719 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:24:04] ::1:54719 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:24:04] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:24:04] ::1:54719 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:24:38] ::1:54751 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:24:38] ::1:54751 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:24:38] ::1:54751 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:24:38] ::1:54752 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:27:37] ::1:54895 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:27:37] ::1:54895 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:27:37] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:27:37] ::1:54895 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:30:21] ::1:55084 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:30:21] ::1:55084 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:30:21] ::1:55084 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:30:21] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:30:21] ::1:55084 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:30:29] ::1:55101 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:30:30] ::1:55101 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:30:30] ::1:55101 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:30:30] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:30:30] ::1:55101 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:30:56] ::1:55131 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:30:56] ::1:55131 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:32:08] ::1:55219 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:32:08] ::1:55219 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:32:09] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:32:09] ::1:55219 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:32:12] ::1:55231 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:32:13] ::1:55231 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:32:13] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:32:13] ::1:55231 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:32:38] ::1:55231 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:32:38] ::1:55231 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:33:17] ::1:55308 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:33:17] ::1:55308 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:33:17] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:33:17] ::1:55308 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:33:19] ::1:55315 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:33:19] ::1:55315 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:33:19] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:33:19] ::1:55315 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:34:05] ::1:55361 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:34:05] ::1:55361 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:34:06] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:34:06] ::1:55361 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:34:47] ::1:55396 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:34:47] ::1:55396 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:34:47] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:34:47] ::1:55396 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:34:50] ::1:55396 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:34:50] ::1:55396 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:34:50] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:34:50] ::1:55396 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:37:05] ::1:55614 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:37:06] ::1:55614 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:37:06] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:37:06] ::1:55614 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:37:10] ::1:55633 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:37:12] ::1:55633 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:37:12] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:37:12] ::1:55633 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:37:14] ::1:55633 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:37:15] ::1:55633 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:37:15] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:37:15] ::1:55633 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:37:26] ::1:55614 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:37:26] ::1:55614 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:37:26] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:37:26] ::1:55614 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:38:47] ::1:55747 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:38:47] ::1:55747 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:38:47] ::1:55747 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:38:47] ::1:55748 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:40:56] ::1:55894 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:40:56] ::1:55894 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:40:56] ::1:55894 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:40:56] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:40:56] ::1:55894 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:41:24] ::1:55935 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:41:24] ::1:55935 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:41:24] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:41:24] ::1:55935 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:41:28] ::1:55941 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:41:28] ::1:55941 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:41:28] ::1:55941 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:41:28] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:41:28] ::1:55941 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:41:58] ::1:55983 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:41:58] ::1:55983 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:42:22] ::1:56020 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:42:22] ::1:56020 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:42:22] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:42:22] ::1:56020 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:42:25] ::1:56029 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:42:26] ::1:56029 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:42:26] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:42:26] ::1:56029 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:43:10] ::1:56097 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:43:11] ::1:56097 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:43:11] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:43:11] ::1:56097 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:43:16] ::1:56110 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:43:18] ::1:56110 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:43:19] ::1:56110 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:43:20] ::1:56110 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:43:20] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:43:20] ::1:56110 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:43:26] ::1:56125 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:43:28] ::1:56125 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:43:28] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:43:28] ::1:56125 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:44:05] ::1:56169 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:44:05] ::1:56169 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:44:29] ::1:56215 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:44:29] ::1:56215 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:44:29] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:44:29] ::1:56215 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:44:45] ::1:56236 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:44:45] ::1:56236 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:44:45] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:44:45] ::1:56236 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:45:14] ::1:56273 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:45:14] ::1:56273 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:45:33] ::1:56302 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:45:33] ::1:56302 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:45:33] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:45:33] ::1:56302 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:45:37] ::1:56315 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:45:38] ::1:56315 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:45:38] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:45:38] ::1:56315 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:46:07] ::1:56344 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:46:07] ::1:56344 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:46:26] ::1:56383 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:46:26] ::1:56383 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:46:26] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:46:26] ::1:56383 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:46:30] ::1:56391 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:46:30] ::1:56391 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:46:30] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:46:30] ::1:56391 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:46:57] ::1:56422 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:46:57] ::1:56422 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:48:26] ::1:56532 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:48:26] ::1:56532 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:48:26] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:48:26] ::1:56532 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:48:30] ::1:56543 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:48:30] ::1:56543 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:48:31] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:48:31] ::1:56543 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:48:42] ::1:56571 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:48:42] ::1:56571 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:48:42] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:48:42] ::1:56571 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:48:57] ::1:56586 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:48:57] ::1:56586 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:48:57] ::1:56586 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:48:57] ::1:56587 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:49:25] Shutting down
+[32mINFO[0m:     [29-10-2024 00:49:25] Waiting for application shutdown.
+[36mDEBUG[0m:    [29-10-2024 00:49:25] Stopping component System
+[36mDEBUG[0m:    [29-10-2024 00:49:25] Stopping component SegmentAPI
+[36mDEBUG[0m:    [29-10-2024 00:49:25] Stopping component PersistentLocalHnswSegment
+[36mDEBUG[0m:    [29-10-2024 00:49:25] Stopping component LocalSegmentManager
+[36mDEBUG[0m:    [29-10-2024 00:49:25] Stopping component SimpleRateLimitEnforcer
+[36mDEBUG[0m:    [29-10-2024 00:49:25] Stopping component Posthog
+[36mDEBUG[0m:    [29-10-2024 00:49:25] Stopping component QuotaEnforcer
+[36mDEBUG[0m:    [29-10-2024 00:49:25] Stopping component SqliteDB
+[36mDEBUG[0m:    [29-10-2024 00:49:25] Stopping component OpenTelemetryClient
+[32mINFO[0m:     [29-10-2024 00:49:25] Application shutdown complete.
+[32mINFO[0m:     [29-10-2024 00:49:25] Finished server process [[36m15124[0m]
+[33mWARNING[0m:  [29-10-2024 00:49:40] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [29-10-2024 00:49:41] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [29-10-2024 00:49:41] Starting component System
+[36mDEBUG[0m:    [29-10-2024 00:49:41] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [29-10-2024 00:49:41] Starting component SqliteDB
+[36mDEBUG[0m:    [29-10-2024 00:49:41] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [29-10-2024 00:49:41] Starting component Posthog
+[36mDEBUG[0m:    [29-10-2024 00:49:41] Starting component SimpleRateLimitEnforcer
+[36mDEBUG[0m:    [29-10-2024 00:49:41] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [29-10-2024 00:49:41] Starting component SegmentAPI
+[32mINFO[0m:     [29-10-2024 00:49:41] Started server process [[36m24908[0m]
+[32mINFO[0m:     [29-10-2024 00:49:41] Waiting for application startup.
+[32mINFO[0m:     [29-10-2024 00:49:41] Application startup complete.
+[32mINFO[0m:     [29-10-2024 00:49:41] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [29-10-2024 00:49:50] ::1:56674 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:49:50] ::1:56674 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:49:50] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:49:50] ::1:56674 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:50:03] ::1:56691 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:50:04] ::1:56691 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:50:04] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:50:04] ::1:56691 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:50:27] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [29-10-2024 00:50:28] ::1:56728 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:50:29] ::1:56728 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:52:09] ::1:56840 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:52:09] ::1:56840 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:52:09] ::1:56840 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:52:09] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:52:09] ::1:56840 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:52:12] ::1:56853 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:52:13] ::1:56853 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:52:14] ::1:56853 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:52:14] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:52:14] ::1:56853 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:52:35] ::1:56882 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:52:35] ::1:56882 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:53:37] ::1:56959 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:53:37] ::1:56959 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:53:37] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:53:37] ::1:56959 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:53:42] ::1:56969 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:53:42] ::1:56969 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:53:43] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:53:43] ::1:56969 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:54:07] ::1:57000 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:54:07] ::1:57000 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:56:15] ::1:57146 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:56:15] ::1:57146 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:56:15] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:56:15] ::1:57146 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:56:19] ::1:57154 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:56:19] ::1:57154 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:56:19] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:56:19] ::1:57154 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:57:04] ::1:57218 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:57:04] ::1:57218 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:57:04] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:57:04] ::1:57218 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:58:42] ::1:57347 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:58:42] ::1:57347 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:58:42] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:58:42] ::1:57347 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:58:43] ::1:57355 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:58:45] ::1:57365 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:58:45] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:58:45] ::1:57365 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:59:36] ::1:57437 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:59:36] ::1:57437 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:59:36] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:59:36] ::1:57437 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:59:42] ::1:57446 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:59:44] ::1:57446 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:59:44] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:59:44] ::1:57446 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:59:52] ::1:57437 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 00:59:52] ::1:57437 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 00:59:52] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 00:59:52] ::1:57437 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:00:28] ::1:57514 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:00:28] ::1:57514 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 01:00:28] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 01:00:28] ::1:57514 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:00:30] ::1:57521 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:00:31] ::1:57521 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 01:00:32] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 01:00:32] ::1:57521 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:01:27] ::1:57594 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:01:28] ::1:57594 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 01:01:28] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 01:01:28] ::1:57594 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:04:10] ::1:57781 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:04:10] ::1:57781 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:04:11] ::1:57781 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 01:04:11] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 01:04:11] ::1:57781 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:04:13] ::1:57792 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:04:13] ::1:57792 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:04:13] ::1:57792 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 01:04:13] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 01:04:13] ::1:57792 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:04:29] ::1:57812 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:04:29] ::1:57812 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:04:29] ::1:57812 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:04:29] ::1:57813 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:05:52] ::1:57918 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:05:52] ::1:57918 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 01:05:52] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 01:05:52] ::1:57918 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:05:56] ::1:57927 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:05:56] ::1:57927 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 01:05:56] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 01:05:56] ::1:57927 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:06:21] ::1:58085 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:06:21] ::1:58085 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:06:38] ::1:58110 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:06:38] ::1:58110 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 01:06:38] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 01:06:38] ::1:58110 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:06:52] ::1:58110 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:06:52] ::1:58110 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 01:06:52] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 01:06:52] ::1:58110 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:08:59] ::1:58386 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:08:59] ::1:58386 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 01:09:00] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 01:09:00] ::1:58391 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:09:24] ::1:58413 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:09:24] ::1:58413 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:10:16] ::1:58456 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 01:10:16] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 01:10:16] ::1:58456 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:10:33] ::1:58689 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:10:33] ::1:58689 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 01:10:33] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 01:10:33] ::1:58689 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:10:42] ::1:58707 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:10:42] ::1:58707 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 01:10:42] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 01:10:42] ::1:58707 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:11:02] ::1:58737 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:11:03] ::1:58737 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:12:59] ::1:58870 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:12:59] ::1:58870 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 01:13:00] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 01:13:00] ::1:58870 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:13:08] ::1:58889 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:13:08] ::1:58889 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 01:13:08] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 01:13:08] ::1:58889 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:13:11] ::1:58898 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:13:11] ::1:58898 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:18:58] ::1:59372 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:18:58] ::1:59372 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:18:59] ::1:59372 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:18:59] ::1:59373 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
