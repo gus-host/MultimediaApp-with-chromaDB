@@ -1318,3 +1318,19 @@ chromadb.db.base.UniqueConstraintError: Collection my_collection already exists
 [32mINFO[0m:     [29-10-2024 01:18:58] ::1:59372 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
 [32mINFO[0m:     [29-10-2024 01:18:59] ::1:59372 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
 [32mINFO[0m:     [29-10-2024 01:18:59] ::1:59373 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:25:29] ::1:59845 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:25:30] ::1:59845 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:25:30] ::1:59845 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 01:25:30] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 01:25:30] ::1:59845 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:25:33] ::1:59860 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:25:33] ::1:59860 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:25:33] ::1:59860 - "OPTIONS /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [29-10-2024 01:25:33] Collection my_collection already exists, returning existing collection.
+[32mINFO[0m:     [29-10-2024 01:25:33] ::1:59860 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:25:57] ::1:59890 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:25:57] ::1:59890 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:25:58] ::1:59892 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:25:58] ::1:59892 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/upsert HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:25:58] ::1:59892 - "OPTIONS /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
+[32mINFO[0m:     [29-10-2024 01:25:58] ::1:59893 - "POST /api/v1/collections/ffb1b1d3-ba6c-46b7-99bd-602027c8d718/query HTTP/1.1" 200
